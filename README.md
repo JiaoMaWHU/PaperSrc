@@ -1,2 +1,2 @@
-# Jiaoma_stduy
-Recsys2016 7-18
+# PaperLearningRecord
+RecSys2016
