@@ -1,2 +1,2 @@
-# PaperLearningRecord
+# PaperLearningRecords
 RecSys2016
