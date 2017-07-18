@@ -1,5 +1,18 @@
 Paper Session 1: Beyond Accuracy
 1.Recommendations with a Purpose: 提出用户和销售方的目的存在矛盾，提出了一个推荐系统设计的框架，提出了一些推荐系统中存在的主要问题，呼吁搞清楚推荐系统的目的
-2.Recommender Systems for Self-Actualization：This paper has unpacked the filter bubble critique of recommender systems, and proposed a new path for research: to support rather than replace human decision-making.
-3.
 
+2.Recommender Systems for Self-Actualization：This paper has unpacked the filter bubble critique of recommender systems, and proposed a new path for research: to support rather than replace human decision-making.
+
+3.A Coverage-Based Approach to Recommendation Diversity On Similarity Graph：This paper focus on how to achieve high relevance and diversity by only coverage(need more thought)
+
+4.A Scalable Approach for Periodical Personalized Recommendations：They provide a new contextual bandits strategy for personalized recommendation. By using online learning, feature hashing and learning reductions, the model can handle unbounded streaming data and take advantage of existing state-of-art.
+
+5:Multi-Word Generative Query Recommendation Using Topic Modeling；Their model improves diversity and has some room for improving relevance,yet offers an interesting avenue for query recommendation
+
+6.Contrasting Offline and Online Results when Evaluating Recommendation Algorithms：This paper presents empirical evidence that the ranking of algorithms based on offline accuracy measurements clearly contradicts the results from the online study with the same set of users.
+
+7.Adaptive, Personalized Diversity for Visual Discovery：Amazon's visual rec platform aimed to solve problems when users' intent is not explicit
+
+8.Intent-Aware Diversification Using a Constrained PLSA：Research presented here aimed to explore aspect models for the intent-aware diversification framework. Also, it models users and items aspects more accurately than the explicit aspect co-occurrence counting approach
+
+Paper Session 2: Beyond Accuracy
