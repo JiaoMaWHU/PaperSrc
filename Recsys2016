@@ -15,4 +15,44 @@ Paper Session 1: Beyond Accuracy
 
 8.Intent-Aware Diversification Using a Constrained PLSA：Research presented here aimed to explore aspect models for the intent-aware diversification framework. Also, it models users and items aspects more accurately than the explicit aspect co-occurrence counting approach
 
-Paper Session 2: Beyond Accuracy
+Paper Session 2:  Algorithms I	
+1.Query-based Music Recommendations via Preference Embedding：采用了一种新的基于推测用户意图的推荐系统，效果比较好（数学原理很简单）
+
+2.Local Item-Item Models For Top-N Recommendation：提出了一种新的top-n模型，提高17%，best paper
+
+3.Field-aware Factorization Machines for CTR Prediction： in this paper we establish FFMs as an effective method for classifying large sparse data including those from CTR prediction
+
+4.Learning Hierarchical Feature Influence for Recommendation by Recursive Regularization:本文提出了一种新的矩阵分解框架，通过递归正则化方法ReMF，它模型化并学习了层次结构的特征对用户项交互的影响，从而提高了推荐的准确性。
+
+5.Factorization Meets the Item Embedding: Regularizing Matrix Factorization with Item Co-occurrence：一种提升MF模型的方法和特定情况
+
+6.Asynchronous Distributed Matrix Factorization with Similar User and Item Based Regularization：提出了一种异步分发控制的矩阵分解方法，比同步的要快的多
+
+Paper Session 3:  Cold Start and Hybrid Methods
+1.Joint User Modeling across Aligned Heterogeneous Sites：引入不同网站的信息解决cold-start问题
+
+2.Fifty Shades of Ratings: How to Benefit from a Negative Feedback in Top-N Recommendations Tasks：不喜欢的反馈同样很重要，在音乐推荐中使用了吗？（Pandora spotify有dislike button,没有调查清楚），很好的解决了cold start问题
+
+3.Latent Factor Representations for Cold-Start Video Recommendation：如何解决cold start问题，更好的emotion（用户的）建模，很有用
+
+4.Ask the GRU: Multi-task Learning for Deep Text Recommendations：神经网络，通过文本分析解决冷启动问题，使文本推荐的效果变得更好
+
+5.Addressing Cold Start for Next-song Recommendation：在cold+warm start问题上都有很好表现的music recommendation(隐形的数据集是怎么判断用户是否喜欢的呢)
+
+6.Accuracy and Diversity in Cross-domain Recommendations for Cold-start Users with Positive-only Feedback：把用户一个领域中的喜好运用到另外一个领域中去，从而解决冷启动问题
+
+Paper Session 4:  User in the loop
+3.Gaze Prediction for Recommender Systems：注视信息用于推荐。。。。。
+
+4.Exploring the Value of Personality in Predicting Rating Behaviors: A Study of Category Preferences on MovieLens不同性格的人在推荐系统里的表现不同。。。。。。
+
+7.ExpLOD: A Framework for Explaining Recommendations based on the Linked Open Data Cloud：对推荐行为的解释
+
+Paper Session 5: Trust and Reliability
+1.Mood-Sensitive Truth Discovery For Reliable Recommendation Systems in Social Sensing：通过预测用户对推荐的心情来优化社交推荐
+
+2.Crowd-Based Personalized Natural Language Explanations for Recommendations：对推荐原因的自然语言解释更为有效
+
+3.Mechanism Design for Personalized Recommender Systems：安全！不懂
+
+
