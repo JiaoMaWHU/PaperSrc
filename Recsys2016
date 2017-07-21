@@ -55,4 +55,66 @@ Paper Session 5: Trust and Reliability
 
 3.Mechanism Design for Personalized Recommender Systems：安全！不懂
 
+Paper Session 6: Applications
+1.Domain-Aware Grade Prediction and Top-n Course Recommendation：课程推荐
+
+2.Deep Neural Networks for YouTube Recommendations：youtube自己团队做的神经网络推荐系统
+
+3.Optimizing Similar Item Recommendations in a Semi-structured Marketplace to Maximize Conversion：ebay做的针对相似物品的最优化推荐
+
+4.A Package Recommendation Framework for Trip Planning Activities：一种推荐旅行地点的推荐系统
+
+Paper Session 7: Past, Present & Future
+1.Recommender Systems with Personality：未来的推荐系统应该是怎样的
+
+2.Past, Present, and Future of Recommender Systems: An Industry Perspective：当前的推荐往往在意diversity，novelty，popularity，但是很多用户注意不到这些东西，要做到personalised，就要注意到不同国家和用户的特点，推荐系统的整个交互范式可以被个性化，在不同的推荐系统中占最大权值的value值不同
+主要关注：优化最佳推荐页面+个性化推荐+隐性反馈+不同权值的推荐
+
+3.Algorithms Aside: Recommendation As The Lens Of Life：玄学！推荐系统应该推荐那些真正好的东西，让我们用户的生活变得更好。？？那谁来让我们的生活变得更好
+
+Paper Session 8:Deep Learning
+1.Meta-Prod2Vec – Product Embeddings Using Side-Information for Recommendation：一种使用已有元数据来计算物品相似度的方法，想来也就是加强了cf的效果，效果好
+
+2.Convolutional Matrix Factorization for Document Context-Aware Recommendation：利用卷积矩阵分解方法构建了一个新的基于上下文的文本推荐系统，提高了评分的准确性
+
+3.Parallel Recurrent Neural Network Architectures for Feature-rich Session-based Recommendations：rnn神经网络训练出来的模型比那些特征较少的基于会话的模型好
+
+Paper Session 9:
+1.The Contextual Turn: from Context-Aware to Context-Driven Recommender Systems：
+
+2.Discovering What You’re Known For: A Contextual Poisson Factorization Approach：更好的探究人们在社交网络中为什么出名，效果更好
+
+3.TAPER: A Contextual Tensor-Based Approach for Personalized Expert Recommendation：基于上下文信息构建了一个个性化的社交推荐系统，又是好效果
+
+4.Are You Influenced by Others When Rating? Improve Rating Prediction by Conformity Modeling：一致性，不赞同
+
+5.Modelling Contextual Information in Session-Aware Recommender Systems with Neural Networks：
+
+6.Getting the Timing Right: Leveraging Category Inter-purchase Times to Improve Recommender Systems：商品推荐的时间十分重要，真的吗？保持疑问
+
+7.MAPS: A Multi Aspect Personalized POI Recommender System：根据用户的地点信息来精确推荐
+
+Paper Session 10:
+1.Recommending New Items to Ephemeral Groups Using Contextual User Influence：群体推荐，利用团队中人的共同爱好来找寻共同推荐
+
+2.Guided Walk: A Scalable Recommendation Algorithm for Complex Heterogeneous Social Networks：？？？？？
+
+3.STAR: Semiring Trust Inference for Trust-Aware Social Recommenders：
+
+4.Vista: A Visually, Socially, and Temporally-aware Model for Artistic Recommendation：
+
+5.Representation Learning for Homophilic Preferences：
+
+Paper Session 11：
+1.Personalized Recommendations using Knowledge Graphs: A Probabilistic Logic Programming Approach：增强图算法，在数据稀疏的情况下非常好，因此对cold start问题可能有效
+
+2.Efficient Bayesian Methods for Graph-based Recommendation：更好的图算法
+
+3.Using Navigation to Improve Recommendations in Real-Time：得到用户实时的意图从而更好的实时推荐
+
+4.Bayesian Low-Rank Determinantal Point Processes：再次购买的频率估计？？
+
+5.Recommending Repeat Purchases using Product Segment Statistics
+
+6.Bayesian Personalized Ranking with Multi-Channel User Feedback：通过建立一套不同等级的反馈信息机制建立ranking system
 
