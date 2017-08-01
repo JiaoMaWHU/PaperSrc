@@ -140,10 +140,4 @@ Paper Session 11：
 
 collect user click-data to predict user preferences
 
-9.Local Item-Item Models For Top-N Recommendation：提出了一种新的top-n模型，提高17%，best paper
-
-10.Using Navigation to Improve Recommendations in Real-Time：得到用户实时的意图从而更好的实时推荐
-
-11.Field-aware Factorization Machines for CTR Prediction： in this paper we establish FFMs as an effective method for classifying large sparse data including those from CTR prediction
-
-12.Ask the GRU: Multi-task Learning for Deep Text Recommendations：神经网络，通过文本分析解决冷启动问题，使文本推荐的效果变得更好
+看jiliangtang的论文+ijcai2016
